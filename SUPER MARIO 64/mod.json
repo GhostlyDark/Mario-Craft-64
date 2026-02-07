@@ -1,0 +1,12 @@
+{
+    "authors" : [
+        "Hypatia", "GhostlyDark"
+    ],
+    "description" : "Super Mario 64 HD texture pack by Hypatia",
+    "display_name" : "Mario Craft 64",
+    "game_id" : "sm64",
+    "id" : "Mario-Craft-64",
+    "minimum_recomp_version" : "0.0.1",
+    "short_description" : "HD texture pack",
+    "version" : "1.3"
+}
