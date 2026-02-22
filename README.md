@@ -1,9 +1,9 @@
 # Mario Craft 64
 
-Mario Craft 64 is an UHD texture pack for GLideN64, rt64, Dolphin, sm64ex (including forks), Ghostship and Jabo. Made by **Hypatia**, porting work and textures fixes by **GhostlyDark**.
+Mario Craft 64 is an UHD texture pack for GLideN64, rt64, Dolphin, sm64ex (including forks), Ghostship and Jabo. Made by **Hypatia**, porting work and texture fixes by **GhostlyDark**.
 
 > [!IMPORTANT]
-> Release files can be found over at [evilgames.eu](https://evilgames.eu/texture-packs/mario-craft-64.htm) and [GitHub Releases](https://github.com/GhostlyDark/Mario-Craft-64/releases/latest). You may find Hypatia's original releases [here](https://onthegreatsea.tumblr.com/DOWNLOADS).
+> Release files can be found at [evilgames.eu](https://evilgames.eu/texture-packs/mario-craft-64.htm) and [GitHub Releases](https://github.com/GhostlyDark/Mario-Craft-64/releases/latest). You may find Hypatia's original packs [here](https://onthegreatsea.tumblr.com/DOWNLOADS).
 
 ![](/mario-craft-64.jpg)
 
